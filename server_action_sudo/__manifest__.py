@@ -4,7 +4,7 @@
     "name": "Server Action Sudo",
     "summary": "Module extends server action with sudo user.",
     "category": "Project",
-    "version": "11.0.1.0.0",
+    "version": "12.0.1.0.0",
     "license": "LGPL-3",
     "author": "Modoolar",
     "website": "https://www.modoolar.com/",
